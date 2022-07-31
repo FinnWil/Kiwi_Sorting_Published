@@ -2,4 +2,4 @@
 
 Kiwi-Sorting Project
 
-made and puvlished by Finn Williams
+made and published by Finn Williams
